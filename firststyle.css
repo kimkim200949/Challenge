@@ -1,0 +1,77 @@
+body{
+    background-color:  hsl(217, 54%, 11%);
+}
+
+*{
+    font-family: 'Outfit', sans-serif;
+}
+
+.title{
+    font-size: 20px;
+    color: hsl(0, 0%, 100%);
+}
+
+.para{
+    font-size: 18px;
+    color: hsl(215, 51%, 70%);
+}
+
+.card{
+    width:300px;
+    border-radius: 10px;
+    background-color:  hsl(216, 50%, 16%);
+    overflow: hidden;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    margin-top:50px;
+    padding-left: 15px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+
+
+.img{
+ 
+    width:95%;
+    height:100%;
+  border-radius: 10px;
+   
+}
+.pig{
+    color:#46fcfc;
+}
+
+
+.clock{
+    color: hsl(215, 51%, 70%);
+}
+
+.line{
+    width: 90%;
+    color: hsl(216, 37%, 80%);
+    text-align: center;
+    margin-right: 30px;
+}
+
+
+.mi{
+    width:40px;
+    height: 40px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+.creat{
+    color:hsl(215, 51%, 70%);
+}
+
+.name{
+    color:white;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
+
